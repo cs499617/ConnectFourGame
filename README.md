@@ -11,7 +11,7 @@ The time taken to complete this project was 1-2 weeks
   - Java
 
 # Features
-This project incorporates the following concepts learned during the second year of web development:
+This project incorporates the following concepts learned during the first year of application development:
   - Sockets/Servers
   - Databases
   - Threads
